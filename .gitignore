@@ -1,0 +1,14 @@
+*.docx
+
+*.4tc
+*.aux
+*.bak
+*.gz
+*.log
+*.out
+*.pdf
+*.tex
+*.tmp
+*.xref
+
+!cv_template.tex
