@@ -11,7 +11,7 @@ Curriculum Vitae
 
 ## Work Experience
 
-### *Since Jan 2022* Lorem ipsum Inc. -- Assistant to the Assistant of the Senior President
+*Since Jan 2022* Lorem ipsum Inc. -- Assistant to the Assistant of the Senior President
 
 Lorem ipsum dolor sit amet
 
@@ -25,7 +25,7 @@ Ut enim ad minim veniam
 - laboris nisi ut aliquip ex ea commodo consequat
 - duis aute irure dolor in reprehenderit in voluptate
 
-### *Jan 2021 -- Dec 2021* Dolor sit amet Corp. -- Junior Vice President Assistant
+*Jan 2021 -- Dec 2021* Dolor sit amet Corp. -- Junior Vice President Assistant
 
 Lorem ipsum dolor sit amet
 
@@ -53,6 +53,6 @@ Ut enim ad minim veniam
 
 ## Certifications
 
-*Jun 2022* Certified Scrum Storyteller -- Flaccid Scrum School 
+*Jun 2022* [Certified Scrum Storyteller -- Flaccid Scrum School](https://example.com)
 
 *Jun 2021* Class Participation non-fungible Token -- DeFi Centralized Coalition
