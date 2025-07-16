@@ -174,17 +174,17 @@ class CurriculumVitae():
     def personal_data_to_tex(self):
         tex_out = []
         tex_out.append("\\name {{{}}}{{{}}}".format(self.name[0], self.name[1]))
-        if self.title is not None:
+        if hasattr(self, 'title') and self.title is not None:
             tex_out.append("\\title{{{}}}".format(self.title))
-        if self.photo is not None:
+        if hasattr(self, 'photo') and self.photo is not None:
             tex_out.append("\\photo[80pt][0pt]{{{}}}".format(self.photo))
-        if self.email is not None:
+        if hasattr(self, 'email') and self.email is not None:
              tex_out.append("\\email{{{}}}".format(self.email))
-        if self.homepage is not None:
+        if hasattr(self, 'homepage') and self.homepage is not None:
              tex_out.append("\\homepage{{{}}}".format(self.homepage))
-        if self.linkedin is not None:
+        if hasattr(self, 'linkedin') and self.linkedin is not None:
              tex_out.append("\\social[linkedin]{{{}}}".format(self.linkedin))
-        if self.github is not None:
+        if hasattr(self, 'github') and self.github is not None:
              tex_out.append("\\social[github]{{{}}}".format(self.github))
         
         tex_out = "\n".join(tex_out)
