@@ -3,8 +3,8 @@
 == Xing Zhou
 
 Software Engineer Leader +
-mailto:xing@xingzhou.me[xing@xingzhou.me] +
-https://www.linkedin.com/in/connect-with-xing[https://www.linkedin.com/in/connect-with-xing]
+xing@xingzhou.me +
+https://www.linkedin.com/in/connect-with-xing
 
 [#professional-summary]
 === Professional Summary
@@ -16,7 +16,7 @@ Empathetic engineering leader with over a decade in cultivating high-performing,
 '''
 [horizontal]
 
-Dec 2020 – Present :: *Senior Software Engineer Manager, Staff Software Engineer* | Ford Credit +
+12/2020 — Present :: *Senior Software Engineer Manager, Staff Software Engineer* | Ford Credit +
 Lead teams in modernizing web and backend services in the loan originations process and account servicing process, including high-volume services handling over 1M requests per day.
 
 * Introduced and evangelized agile/lean/DevOps concepts such as cycle time and SLIs/SLOs/SLAs to improve team predictability and reduce operational toil.
@@ -26,20 +26,20 @@ Lead teams in modernizing web and backend services in the loan originations proc
 * Created a reusable Java library for Event Sourcing, boosting adoption and standardization.
 * Boosted team productivity by instilling XP practices like TDD, refactoring, CI/CD.
 
-Jul 2018 – Dec 2020 :: *Associate Director of Engineering, Software Engineer Manager* | Integral +
+07/2018 — 12/2020 :: *Associate Director of Engineering, Software Engineer Manager* | Integral +
 Represented the engineering discipline on the company's leadership team while supporting client project deliveries.
 
 * Defined Integral’s engineering leadership structure and performance matrix, including engineer growth track and skills matrix.
 * Lead the adoption of engineer management practices that enhance engagement and retention, including a transparent hiring process, onboarding training, “stay interviews,” and engagement assessments.
 * Lead XP and agile workshops internally and to clients.
 
-Mar 2017 – Jun 2018 :: *Software Engineer* | Pivotal Labs +
+03/2017 — 06/2018 :: *Software Engineer* | Pivotal Labs +
 Delivered greenfield projects for clients using XP principles and practices.
 
 * Lead technical workshops on foundational technical practices such as TDD, Dependency Inversion Principle, Hexagonal Architecture, and refactoring.
 * Coached client engineers in XP practices, such as TDD, CI/CD, and refactoring.
 
-Jun 2015 – Oct 2016 :: *Software Development Engineer* | Amazon +
+06/2015 — 10/2016 :: *Software Development Engineer* | Amazon +
 Kindle for iOS
 * Mentored software engineer intern in agile project planning, SOLID software design, and TDD.
 
@@ -49,8 +49,8 @@ Kindle for iOS
 [horizontal]
 
 Leadership :: Servant Leadership, Non-Violent Communication
-Process :: Extreme Programming, Agile Development, Lean Development
-Software Design :: TDD, DDD, BDD, CI/CD, Event Sourcing, Hexagonal Architecture
+Process :: Extreme Programming, Agile Development, Lean Development, CI/CD
+Software Design :: TDD, DDD, BDD, Event Sourcing, Hexagonal Architecture
 Technology :: Java, Spring Boot, React, Ruby on Rails
 
 [#education]

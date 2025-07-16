@@ -10,5 +10,9 @@
 *.tex
 *.tmp
 *.xref
+*.adoc
 
-!cv_template.tex
+.idea/
+!cv.pdf
+!cv.html
+!cv.adoc
