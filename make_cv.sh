@@ -1,5 +1,5 @@
 #!/usr/bin/env zsh
 
-pandoc -s resume.md -o resume.docx
-python3 md_to_tex.py resume.md english "scale=0.85"
-pdflatex resume.tex
+pandoc -s cv.md -o cv.docx
+python3 md_to_tex.py cv.md english "scale=0.85"
+pdflatex cv.tex
