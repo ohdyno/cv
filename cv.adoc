@@ -1,61 +1,62 @@
 :nofooter:
 
-== Xing Zhou
+[.text-center]
+=== Xing Zhou
+Software Engineering Leader +
+Metro Detroit, MI | xing@xingzhou.me | https://www.linkedin.com/in/connect-with-xing
 
-Software Engineer Leader +
-xing@xingzhou.me +
-https://www.linkedin.com/in/connect-with-xing
-
+[.text-left]
 [#professional-summary]
-=== Professional Summary
-'''
-Empathetic engineering leader with over a decade in cultivating high-performing, joyful software teams. Focused on personalized coaching engineers to develop technical excellence and interpersonal skills. Experienced in aligning teams with organizational goals, providing predictable outcomes, and delivering with a prioritized, feedback-driven, iterative process.
+==== Professional Summary
+Empathetic engineering leader with over a decade in cultivating high-performing, joyful software teams.
+Focused on developing engineers through personalized coaching to develop technical excellence and interpersonal skills.
+Experienced in aligning teams with organizational goals, providing predictable outcomes, and delivering with a prioritized, feedback-driven, iterative process.
 
+[.text-left]
 [#work-experience]
-=== Work Experience
-'''
-[horizontal]
+==== Work Experience
 
-12/2020 — Present :: *Senior Software Engineer Manager, Staff Software Engineer* | Ford Credit +
-Lead teams in modernizing web and backend services in the loan originations process and account servicing process, including high-volume services handling over 1M requests per day.
+*Senior Software Engineer Manager, Staff Software Engineer* | Ford Credit | __12/2020 — Present__ +
+Lead teams in modernizing web and cloud-native services in the loan originations process and account servicing process, including high-volume microservices handling over 1M requests per day.
 
-* Introduced and evangelized agile/lean/DevOps concepts such as cycle time and SLIs/SLOs/SLAs to improve team predictability and reduce operational toil.
-* Coordinated with product owners, architects, and senior leadership to prioritize work and guide product direction.
-* Matched team members to high-impact roles aligned with their strengths and learning interests.
-* Acted as internal consultant and technical coach across org-wide teams on Behavior-Driven Design, Event Sourcing, Hexagonal Architecture techniques.
-* Created a reusable Java library for Event Sourcing, boosting adoption and standardization.
+* Mentored 18 engineers and technical project managers (TPMs) across two teams with eight promotions.
+* Facilitated a culture of ownership, responsibility, quality, and growth through hands-on mentoring and one-on-ones, matching people to appropriate roles, and improving collaborations processes within and across teams.
+* Improve team productivity by providing strategic focus, removing organizational blockers, and motivating individuals with personalized, contextualized purpose and goals.
+* Improve team predictability and reduce operational toil by evangelizing agile/lean/DevOps concepts such as cycle time and SLIs/SLOs/SLAs.
+* Boosted adoption and standardization of event sourcing patterns by creating and maintaining a reusable Java library integration application code with SQL databases.
+* Coached and mentored teams org-wide on Behavior-Driven Design, Event Sourcing, Hexagonal Architecture techniques.
 * Boosted team productivity by instilling XP practices like TDD, refactoring, CI/CD.
 
-07/2018 — 12/2020 :: *Associate Director of Engineering, Software Engineer Manager* | Integral +
-Represented the engineering discipline on the company's leadership team while supporting client project deliveries.
+*Associate Director of Engineering, Software Engineer Manager* | Integral | __07/2018 — 12/2020__ +
+Lead and grew the engineering discipline while supporting client project deliveries.
 
-* Defined Integral’s engineering leadership structure and performance matrix, including engineer growth track and skills matrix.
-* Lead the adoption of engineer management practices that enhance engagement and retention, including a transparent hiring process, onboarding training, “stay interviews,” and engagement assessments.
+* Improved employee engagement and retention by defining Integral’s engineering leadership structure, engineer levels, and skills matrix.
+* Spearheaded the adoption of engineer management practices including a transparent hiring process, onboarding training, “stay interviews,” and engagement assessments.
+* Supported project delivery as technical lead and client liaison.
 * Lead XP and agile workshops internally and to clients.
 
-03/2017 — 06/2018 :: *Software Engineer* | Pivotal Labs +
+*Software Engineer* | Pivotal Labs | __03/2017 — 06/2018__ +
 Delivered greenfield projects for clients using XP principles and practices.
 
 * Lead technical workshops on foundational technical practices such as TDD, Dependency Inversion Principle, Hexagonal Architecture, and refactoring.
 * Coached client engineers in XP practices, such as TDD, CI/CD, and refactoring.
 
-06/2015 — 10/2016 :: *Software Development Engineer* | Amazon +
-Kindle for iOS
+*Software Development Engineer* | Amazon | __06/2015 — 10/2016__ +
+Developed features for Kindle for iOS in an agile team.
+
 * Mentored software engineer intern in agile project planning, SOLID software design, and TDD.
 
+[.text-left]
 [#skills]
-=== Skills
-'''
-[horizontal]
+==== Skills
 
-Leadership :: Servant Leadership, Non-Violent Communication
-Process :: Extreme Programming, Agile Development, Lean Development, CI/CD
-Software Design :: TDD, DDD, BDD, Event Sourcing, Hexagonal Architecture
-Technology :: Java, Spring Boot, React, Ruby on Rails
+*Leadership* CliftonStrengths, Servant Leadership, Non-Violent Communication +
+*Process* Extreme Programming, Agile Development, Lean Development, CI/CD +
+*Software Design* Cloud-Native Applications, Microservices, TDD, DDD, BDD, Event Sourcing, Hexagonal Architecture +
+*Technology* Java, Spring Boot, React, Ruby on Rails
 
+[.text-left]
 [#education]
-=== Education
-'''
-[horizontal]
+==== Education
 
-Carnegie Mellon University :: Bachelor of Science in Computer Science | 2015
+*Carnegie Mellon University* | Bachelor of Science in Computer Science | __2015__
